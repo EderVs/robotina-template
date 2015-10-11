@@ -480,11 +480,9 @@
 	
 	#welcome .container
 	{
-		width: 500px;
+		width: 1000px;
 		padding: 0px 100px;
-		margin-left: 15%;
 		color: rgba(255,255,255,0.8);
-		text-align: left;
 	}
 	
 	#welcome a
@@ -528,13 +526,4 @@
 		position: absolute;
 		width: 500px;
 		display: block;
-	}
-
-	#app
-	{
-		position: absolute;
-		height: 55%;
-		display: block;
-		right: 0;
-		top: 25%;	
 	}
